@@ -21,7 +21,7 @@ Run following command to install packages
 
 pip3 install -r requirements.txt
 
-# Generate an AWS ACCE KEY and SECRET KEY and replace with the values in the file.
+Generate an AWS ACCE KEY and SECRET KEY and replace with the values in the file.
 
-# Run with command
+Run with command
 python3 delete_backups.py
