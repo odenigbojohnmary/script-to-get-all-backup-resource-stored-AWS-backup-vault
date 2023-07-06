@@ -1,0 +1,1 @@
+# script-to-get-all-backup-resource-stored-AWS-backup-vault
