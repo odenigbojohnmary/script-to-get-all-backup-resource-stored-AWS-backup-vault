@@ -11,11 +11,9 @@ Install latest version of python
 
 Install packages:
 
-Extract the attached zip file
+Clone the repo
 
-Open a terminal in project root directory
-
-Create a virtual environment in project directory and activate it. Documentation
+Create a virtual environment in project directory and activate it. Documentation (https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environmention)
 
 Run following command to install packages
 
